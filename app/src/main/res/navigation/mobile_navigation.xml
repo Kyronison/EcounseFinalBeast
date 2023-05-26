@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.kyronison.ecounse.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_shares"
+        android:name="com.kyronison.ecounse.ui.shares.SharesFragment"
+        android:label="@string/menu_shares"
+        tools:layout="@layout/fragment_shares" />
+
+    <fragment
+        android:id="@+id/nav_futures"
+        android:name="com.kyronison.ecounse.ui.futures.FuturesFragment"
+        android:label="@string/menu_futures"
+        tools:layout="@layout/fragment_futures" />
+
+    <fragment
+        android:id="@+id/nav_options"
+        android:name="com.kyronison.ecounse.ui.options.OptionsFragment"
+        android:label="@string/menu_options"
+        tools:layout="@layout/fragment_options" />
+
+    <fragment
+        android:id="@+id/nav_bonds"
+        android:name="com.kyronison.ecounse.ui.bonds.BondsFragment"
+        android:label="@string/menu_bonds"
+        tools:layout="@layout/fragment_bonds"/>
+</navigation>

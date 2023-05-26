@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Ecounse</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Ecounse</string>
+    <string name="nav_header_subtitle">Finance world</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_shares">Shares</string>
+    <string name="menu_futures">Futures</string>
+    <string name="menu_options">Options</string>
+    <string name="menu_bonds">Bonds</string>
+
+    <string name="text_home">Welcome to Ecounse!\nHere you will find a lot of useful information on financial instruments</string>
+    <string name="text_shares">Stock shares, also known as equities, represent ownership in a company. When an investor buys a share of stock, they become a shareholder and can participate in the company\'s growth and profits. Shareholders are entitled to vote on important company decisions and may receive dividends if the company decides to distribute profits to its shareholders. The value of a stock share is influenced by a variety of factors, such as the company\'s financial performance, industry trends, and market sentiment. Investors can buy and sell stock shares on stock exchanges, such as the New York Stock Exchange or NASDAQ, and can use them to build a diversified investment portfolio.</string>
+    <string name="text_futures">Futures are financial derivatives that allow traders to speculate on the future price of an asset. These assets can be commodities, such as oil or gold, or financial instruments, such as stocks or bonds. The futures market provides a way for individuals and institutions to manage risk, and it can also serve as a barometer for market sentiment. Futures contracts are standardized agreements between two parties to buy or sell an asset at a predetermined price and date in the future. The prices of futures contracts are determined by supply and demand, as well as market expectations for the underlying asset.</string>
+    <string name="text_options">Stock options are a type of financial derivative that give the holder the right, but not the obligation, to buy or sell a stock at a specific price within a certain time frame. Unlike futures contracts, which are standardized, stock options can be customized to fit the needs of the buyer. There are two types of options: call options, which give the holder the right to buy a stock, and put options, which give the holder the right to sell a stock. Options can be used for speculative purposes, to hedge against market volatility, or as a way for employees to receive stock-based compensation from their employer. The value of an option is influenced by a variety of factors, including the price of the underlying stock, volatility, time until expiration, and interest rates.</string>
+    <string name="text_bonds">Bonds are a type of debt security in which an investor loans money to an entity, typically a government or corporation, for a set period of time with a fixed interest rate. When an investor purchases a bond, they are effectively lending their money to the issuer in exchange for periodic interest payments and the return of their initial investment when the bond matures. Bonds provide a more reliable source of income than stocks, as they typically offer a lower risk of loss but also lower potential for gains. Bond prices are influenced by a variety of factors, such as interest rates, credit ratings, and inflation. Investors can purchase bonds on the bond market, where the prevailing interest rate is the yield that an investor will earn on their investment.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/house_main"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_shares"
+            android:icon="@drawable/stock_main"
+            android:title="@string/menu_shares" />
+        <item
+            android:id="@+id/nav_futures"
+            android:icon="@drawable/future_main"
+            android:title="@string/menu_futures" />
+        <item
+            android:id="@+id/nav_options"
+            android:icon="@drawable/options_main"
+            android:title="@string/menu_options" />
+        <item
+            android:id="@+id/nav_bonds"
+            android:icon="@drawable/bonds_main"
+            android:title="@string/menu_bonds"/>
+    </group>
+</menu>
